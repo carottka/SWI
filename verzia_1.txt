@@ -1,3 +1,5 @@
 Toto je verzia 1
 
 Toto sme teraz doplnili
+
+Teraz sme sem nieco dopisali
