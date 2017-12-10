@@ -8,3 +8,5 @@ A teraz som sem zase nieco dopisal a idem to vlozit na serveer
 Teraz som si nakopiroval tento text do branch 3 a idem to ulozit na github
 
 Nieco som sem teraz supol a uz to mozno ide
+
+Dopisuje v githube a potrebujem to supnut spat
