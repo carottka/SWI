@@ -1,2 +1,4 @@
 toto je vytvorena 3.tia verzia 
 Teraz som si nakopiroval tento text do branch 3 a idem to ulozit na github
+
+Nieco som sem teraz supol a uz to mozno ide
