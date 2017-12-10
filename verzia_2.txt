@@ -1,0 +1,2 @@
+Toto je teraz verzia cislo 2 vytvorena vo vetve verzia_2
+ 
