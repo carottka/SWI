@@ -1,5 +1,4 @@
 toto je vytvorena 3.tia verzia 
-<<<<<<< HEAD
 
 Teraz som si dopisal na githube daco a idem to pullnut do masteru
 
@@ -9,4 +8,3 @@ A teraz som sem zase nieco dopisal a idem to vlozit na serveer
 Teraz som si nakopiroval tento text do branch 3 a idem to ulozit na github
 
 Nieco som sem teraz supol a uz to mozno ide
->>>>>>> 6dbdc4c2a284035ca8abc0e39323e0bf26171062
