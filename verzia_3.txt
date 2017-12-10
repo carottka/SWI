@@ -1,1 +1,3 @@
 toto je vytvorena 3.tia verzia 
+
+Teraz som si dopisal na githube daco a idem to pullnut do masteru
