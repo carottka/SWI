@@ -3,3 +3,6 @@ Toto je verzia 1
 Toto sme teraz doplnili
 
 Teraz sme sem nieco dopisali
+
+Teraz sme zase nieco dopisali ale len v brach 2
+
