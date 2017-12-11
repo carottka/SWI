@@ -1,3 +1,11 @@
 Teraz som vsetko vymazal a upravil iba branch 4 a tuto verziu
 Si to tu teraz upravim aby som to mohol supnut na server
 
+<<<<<<< HEAD
+=======
+Toto sme teraz doplnili
+
+Teraz sme sem nieco dopisali
+
+asdklhsadlkh
+>>>>>>> verzia_5
